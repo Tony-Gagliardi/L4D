@@ -44,10 +44,7 @@
     - [7.4 "Stuck spots"](#74-stuck-spots)
     - [7.5 Spawn glitches](#75-spawn-glitches)
     - [7.6 Attacking from out of bounds](#76-attacking-from-out-of-bounds)
-    - [7.7 Hard Rain Pipes](#77-hard-rain-pipes)
-    - [7.8 Hard Rain elevator](#78-hard-rain-elevator)
-    - [7.9 Death Toll 1 ladder](#79-death-toll-1-ladder)
-    - [7.10 Atrium gas cans](#710-atrium-gas-cans)
+    - [7.7 General Exploits](#77-hard-rain-pipes)
   - [Section 8: Glitches](#section-8-glitches)
     - [8.1 Rescue vehicles](#81-rescue-vehicles)
   - [Section 9: Competitive Integrity](#section-9-competitive-integrity)
@@ -451,7 +448,7 @@ passing through it in "ghost mode".
 As infected, do not attack the survivors in any way from out of the normal map
 bounds.
 
-### 7.10 General Exploits
+### 7.7 General Exploits
 
 The Tournament Director reserves the right to rule on exploits that are not
 explicitly listed here. If you think it might be an exploit, don't do it.
