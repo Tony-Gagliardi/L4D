@@ -22,7 +22,6 @@
     - [3.5 Roster size](#35-roster-size)
     - [3.6 Other limits](#36-other-limits)
   - [Section 4: Servers](#section-4-servers)
-    - [4.1 Home servers](#41-home-servers)
   - [Section 5: Match schedule](#section-5-match-schedule)
     - [5.1 Rounds and scheduling](#51-rounds-and-scheduling)
     - [5.2 Scheduling deadline](#52-scheduling-deadline)
@@ -90,7 +89,7 @@ possible.
 
 ### 1.5 Official communication
 
-Official communication will take place via \[TBD\].
+Official communication will take place via Steam Group (https://steamcommunity.com/groups/l4d15) and Discord (https://discord.gg/En3a2D9R).
 
 ## Section 2: Tournament Format
 
@@ -100,7 +99,7 @@ Official communication will take place via \[TBD\].
 A match may consist of:
 
 - a single game on a neutral server chosen by mutual agreement during match
-  scheduling.
+  scheduling. Tournament servers will be provided for teams wishing to play on official servers.
 
 See [Section 4: Servers](#section-4-servers) and
 [Section 5: Match schedule](#section-5-match-schedule) for more guidance on
@@ -142,7 +141,6 @@ The following criteria break ties, descending:
    winner of that encounter is given the higher placement.
 2. Points Allowed (lower is better)
 3. Points Scored
-4. Points Scored minus Points Allowed
 
 #### 2.2.4 No-shows
 
@@ -151,10 +149,7 @@ disappoint other competitors who have joined the tournament to participate in
 the competition.
 
 If you wish to withdraw from the tournament, please tell one of the Tournament
-Directors by \[TBD\].
-
-If your team forfeits any match, you **must** \[TBD\] or **you will be removed
-from the tournament without notice.**
+Directors by messaging directly on Steam or Discord.
 
 #### 2.2.5 References
 
@@ -201,25 +196,28 @@ tournament.
 lower playoff seed chooses a map to ban first.
 
 #### 2.3.1 Playoffs Map pool
+  
+1. No Mercy
+2. Death Toll
+3. Dead Air
+4. Blood Harvest
 
 ### 2.4 Finales
 
-
-On 5-chapter campaigns, unless there is clear, documented agreement between
-both teams on whether to play Chapter 5, then:
-
-- In a neutral server match, Chapter 5 _will not_ be played.
+Unless there is clear, documented agreement between
+both teams on whether to play Chapter 5, Chapter 5 will
+not be played.
 
 ## Section 3: Registration process
 
 ### 3.1 Registration
 
-You may register to participate in the tournament by \[TBD\].
+You may register to participate in the tournament by signing
+up here https://steamcommunity.com/groups/l4d15/discussions/0/6039921111947076761/
 
 ### 3.2 Deadline
 
-The deadline for registrations is \[TBD\]. After this date, new entries and
-requests for roster changes are invalid.
+The deadline for registrations is 11:5pm EST on January 19th, 2023. After this date, new entries are invalid.
 
 ### 3.3 Double registration
 
@@ -266,31 +264,11 @@ Game servers will be selected according to the following criteria:
   both teams agree to another tickrate.
 - Servers with [DoS Protection][iptables] are preferred.
 
-### 4.1 Home servers
-
-The tournament is an international format. Therefore, the following rules
-apply:
-
-#### 4.1.1 Home server selection
-
-Each team's home server will be a server that satisfies these criteria and
-provides the best average ping for the members of their team.
-
-Due to restrictions placed on internet traffic at the internet backbone level,
-home servers will not be located inside mainland China, or otherwise behind
-"[The Great Firewall][greatfirewall-en]".
-
-#### 4.1.2 Gamesmanship is not tolerated
-
-It is not acceptable to choose a home server on the basis that it would provide
-poor latency for the opposing team. The staff will deal with attempts at
-gamesmanship in server choice.
-
 ## Section 5: Match schedule
 
 ### 5.1 Rounds and scheduling
 
-Pairings and brackets for each round will be posted weekly on Monday.
+Pairings and brackets for each round will be posted weekly on <X>.
 
 ### 5.2 Scheduling deadline
 
@@ -303,12 +281,12 @@ Any player on the roster may perform scheduling duties.
 
 ### 5.4 Reporting results
 
-Submit results, with a screenshot, by the following Sunday at midnight (PT /
-UTC-8). Failure to report weekly round results before the deadline will result
+Submit results, with a screenshot, by the following <X> at midnight (EST). 
+Failure to report weekly round results before the deadline will result
 in a double forfeit. Under no circumstances whatsoever will extensions be
 granted.
 
-To report match results, post in the `#results` channel as outlined in the
+To report match results, post in the <X> as outlined in the
 pinned messages. Include a screenshot of the final scores. Results will not be
 accepted via _any_ other means.
 
@@ -317,7 +295,6 @@ accepted via _any_ other means.
 A match schedule consists of two elements:
 
 - The date and time, _with the time zones_, when the match will begin.
-- The number of games that will be played in the match.
 
 Competitors are strongly urged to post their complete match schedules to avoid
 any possibility of miscommunication or dispute about these details at match
@@ -401,7 +378,7 @@ process.
 
 ### 6.6 Substitutions
 
-In a Home / Away match, you must use the same 4 players in both games.
+Subs are permitted using players on your roster.
 
 ## Section 7: Exploits
 
