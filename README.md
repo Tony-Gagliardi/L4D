@@ -97,9 +97,8 @@ Official communication will take place via \[TBD\].
 
 ## Section 2: Tournament Format
 
-This is an International tournament consisting of two sections.
 
-### 2.1 International format
+### 2.1 North American format
 
 A match may consist of:
 
@@ -246,6 +245,8 @@ You may review the public ban list [here][banlist-sirplease].
 ### 3.5 Roster size
 
 Each team must have 4 or more players on the roster, and no more than 6.
+  
+Rosters will lock once playoffs begin. 
 
 ### 3.6 Other limits
 
@@ -361,9 +362,6 @@ from the tournament or that player has been removed from the roster.
 Each team must field at least three (3) rostered players in each match,
 regardless of consent from the opponent.
 
-Ringers are not allowed in the playoff phase of the tournament, regardless of
-consent from either team.
-
 ### 6.4 Demos and screenshots
 
 To maintain public trust in the legitimacy of the competition, it is required
@@ -453,37 +451,16 @@ passing through it in "ghost mode".
 As infected, do not attack the survivors in any way from out of the normal map
 bounds.
 
-### 7.7 Hard Rain Pipes
+### 7.10 General Exploits
 
-On `c4m2_sugarmill`, do not jump on the pipes near the trailer by climbing on
-the ruined brick wall. (Screenshot [1](assets/pipe1.jpg) [2](assets/pipe2.jpg))
-
-### 7.8 Hard Rain elevator
-
-Do not skip the elevator holdout event on `c4m2_sugarmill` by any means that
-allow the player to safely enter the sugar cane field without riding the
-elevator or being incapacitated or killed by fall damage.
-
-### 7.9 Death Toll 1 ladder
-
-You many not cross the ruined bridge on `c11_m1` without climbing a ladder. If
-you find yourself on the far side of the bridge and you did not climb a ladder,
-you must go back and climb a ladder before progressing.
-
-### 7.10 Atrium gas cans
-
-As infected, you may not move gas cans on `c1m4_atrium` by punching or
-scratching them.
-
-Intentionally positioning a boomer so that cans are moved when it is popped is
-allowed.
+The Tournament Director reserves the right to rule on exploits that are not
+explicitly listed here. If you think it might be an exploit, don't do it.
 
 ## Section 8: Glitches
 
 ### 8.1 Rescue vehicles
 
-In the event of a finale rescue vehicle glitch (most common on Swamp Fever, but
-also possible on Dark Carnival and Hard Rain) the half will be replayed
+In the event of a finale rescue vehicle glitch the half will be replayed
 following a restart round. If necessary the final scores will be calculated
 manually.
 
@@ -505,12 +482,15 @@ eligibility for any prizes.
 
 After the match begins, players will not obtain information from any web casts,
 streams, etc., that show match play, until the match is concluded.
+  
+It is strongly recommended for casters to implement a stream delay to prevent
+cheating via stream sniping.
 
 ### 9.3 Permitted modifications
 
 The following modifications are PERMITTED:
 
-- All modifications to the Left 4 Dead 2 user interface that do not alter, nor
+- All modifications to the Left 4 Dead user interface that do not alter, nor
   interact with the in-game user experience nor provide additional information
   about the game state (e.g. ZoneMenu, menu music, menu fonts, menu shortcuts,
   console fonts, etc.) are allowed.
