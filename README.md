@@ -1,4 +1,4 @@
-# Left 4 Dead 2 Tournament Standard Rules
+# Left 4 Dead 1 Tournament Standard Rules
 
 <!-- mdformat-toc start --slug=github --no-anchors --maxlevel=3 --minlevel=1 -->
 
@@ -71,10 +71,9 @@
 
 ### 1.1 Staff
 
-Tournament Director: \[TBD\]
+Tournament Director: Af-1 https://steamcommunity.com/id/afwun/
 
-Assistant Tournament Directors: \[TBD\]
-
+Assistant Tournament Directors: TBD
 ### 1.2 Disputes
 
 The Tournament Directors are the sole arbiter and court of last resort for all
@@ -104,14 +103,8 @@ This is an International tournament consisting of two sections.
 
 A match may consist of:
 
-- two games with each opposing team choosing the server for one of the two
-  games, decided by the sum of the scores of both games, (also known as
-  "Home/Away"), OR
 - a single game on a neutral server chosen by mutual agreement during match
   scheduling.
-
-If opposing teams cannot agree on a neutral server according to these rules,
-use the Home/Away system.
 
 See [Section 4: Servers](#section-4-servers) and
 [Section 5: Match schedule](#section-5-match-schedule) for more guidance on
@@ -191,18 +184,16 @@ teams participating in the tournament. Therefore, the organizers cannot predict
 how many rounds will be scheduled for the Swiss section until registration has
 closed.
 
-1. Hard Rain\*
-1. Passifice\*
-1. Dark Carnival: Remix
+1. No Mercy
 1. Death Toll
-1. Hard Rain: Downpour
-1. Diescraper Redeux
-1. The Parish
+1. Dead Air
+1. Blood Harvest
+
 
 ### 2.3 Playoffs
 
-Once the first section is completed, 16 teams will move on to the playoffs. The
-playoffs section will be a double-elimination knockout tournament.
+Once the first section is completed, <X> teams will move on to the playoffs. The
+playoffs section will be a single elimination knockout tournament.
 
 #### 2.3.1 Playoffs Map pool
 
@@ -217,14 +208,11 @@ lower playoff seed chooses a map to ban first.
 
 ### 2.4 Finales
 
-On 4-chapter campaigns (such as Dead Center or Swamp Fever), Chapter 4 will
-always be played.
 
 On 5-chapter campaigns, unless there is clear, documented agreement between
 both teams on whether to play Chapter 5, then:
 
-- In a neutral server match, Chapter 5 _will_ be played.
-- In a Home/Away match, Chapter 5 _will not_ be played.
+- In a neutral server match, Chapter 5 _will not_ be played.
 
 ## Section 3: Registration process
 
@@ -637,6 +625,8 @@ their rosters.
 ## Section 11: Legal
 
 Copyright (C) 2014-2022 by Ryan Delaney.
+
+Modified by Tony Gagliardi in 2023 to support the L4D 15th Anniversary Tournament
 
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0
 International License.
