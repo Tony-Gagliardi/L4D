@@ -2,7 +2,7 @@
 
 <!-- mdformat-toc start --slug=github --no-anchors --maxlevel=3 --minlevel=1 -->
 
-- [Left 4 Dead 2 Tournament Standard Rules](#left-4-dead-2-tournament-standard-rules)
+- [Left 4 Dead 1 Tournament Standard Rules](#left-4-dead-2-tournament-standard-rules)
   - [Section 1: Tournament administration](#section-1-tournament-administration)
     - [1.1 Staff](#11-staff)
     - [1.2 Disputes](#12-disputes)
