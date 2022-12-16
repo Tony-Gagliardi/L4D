@@ -460,6 +460,18 @@ explicitly listed here. If you think it might be an exploit, don't do it.
 In the event of a finale rescue vehicle glitch the half will be replayed
 following a restart round. If necessary the final scores will be calculated
 manually.
+  
+### 8.2 General Glitches
+  
+Should any significant, game-impacting glitch occur, the half will be replayed
+following a restart round. If necessary, the final scores will be calculated
+manually. Examples of significant, game-impacting glitches include:
+    A. Server crash
+    B. Unexplained survivor death
+    C. Unexplained tank death 
+  
+ The tournament director reserves the right to make rulings on game glitches
+ not listed here on the basis of fair play and best judgement.
 
 ## Section 9: Competitive Integrity
 
