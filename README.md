@@ -138,11 +138,11 @@ point.
 
 The following criteria break ties, descending:
 
-1. [Median Bucholz][tiebreak-mbucholz]
-1. [Cumulative][tiebreak-cumulative]
 1. Direct Encounter: if two teams played against each other directly then the
    winner of that encounter is given the higher placement.
-1. [Sonnenborn-Berger][tiebreak-sb]
+2. Points Allowed (lower is better)
+3. Points Scored
+4. Points Scored minus Points Allowed
 
 #### 2.2.4 No-shows
 
