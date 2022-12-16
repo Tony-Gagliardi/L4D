@@ -44,7 +44,7 @@
     - [7.4 "Stuck spots"](#74-stuck-spots)
     - [7.5 Spawn glitches](#75-spawn-glitches)
     - [7.6 Attacking from out of bounds](#76-attacking-from-out-of-bounds)
-    - [7.7 General Exploits](#77-hard-rain-pipes)
+    - [7.7 General Exploits](#77-general-exploits)
   - [Section 8: Glitches](#section-8-glitches)
     - [8.1 Rescue vehicles](#81-rescue-vehicles)
   - [Section 9: Competitive Integrity](#section-9-competitive-integrity)
@@ -125,8 +125,8 @@ lost games.
 
 #### 2.2.1 Double Jeopardy
 
-Under no circumstances will two competitors face each other more than once
-during the Swiss section.
+Best efforts will be made to ensure no two competitors face each other more
+than once during the Swiss section.
 
 #### 2.2.2 Byes
 
@@ -181,9 +181,9 @@ how many rounds will be scheduled for the Swiss section until registration has
 closed.
 
 1. No Mercy
-1. Death Toll
-1. Dead Air
-1. Blood Harvest
+2. Death Toll
+3. Dead Air
+4. Blood Harvest
 
 
 ### 2.3 Playoffs
@@ -466,6 +466,7 @@ manually.
 Should any significant, game-impacting glitch occur, the half will be replayed
 following a restart round. If necessary, the final scores will be calculated
 manually. Examples of significant, game-impacting glitches include:
+  
     A. Server crash
     B. Unexplained survivor death
     C. Unexplained tank death 
