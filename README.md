@@ -268,7 +268,8 @@ Game servers will be selected according to the following criteria:
 
 ### 5.1 Rounds and scheduling
 
-Pairings and brackets for each round will be posted weekly on <X>.
+Pairings and brackets for each round will be posted weekly on Monday 
+  (with the exception of the first round).
 
 ### 5.2 Scheduling deadline
 
@@ -281,13 +282,13 @@ Any player on the roster may perform scheduling duties.
 
 ### 5.4 Reporting results
 
-Submit results, with a screenshot, by the following <X> at midnight (EST). 
+Submit results, with a screenshot, by the following Sunday at midnight (EST). 
 Failure to report weekly round results before the deadline will result
 in a double forfeit. Under no circumstances whatsoever will extensions be
 granted.
 
-To report match results, post in the <X> as outlined in the
-pinned messages. Include a screenshot of the final scores. Results will not be
+To report match results, post in the Round Results discussion/thread 
+in the Steam Group. Include a screenshot of the final scores. Results will not be
 accepted via _any_ other means.
 
 ### 5.5 How to schedule a match
@@ -298,7 +299,8 @@ A match schedule consists of two elements:
 
 Competitors are strongly urged to post their complete match schedules to avoid
 any possibility of miscommunication or dispute about these details at match
-time.
+time. To report a match schedule, post in the Round Schedules discussion/thread 
+in the Steam Group.
 
 ### 5.6 Requests for Oversight
 
